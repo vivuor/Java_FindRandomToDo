@@ -1,0 +1,4 @@
+SELECT *
+FROM todo
+ORDER BY rand()
+LIMIT 1;
